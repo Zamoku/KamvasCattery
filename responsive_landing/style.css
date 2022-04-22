@@ -1,0 +1,9 @@
+body{
+    background-color:burlywood;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
