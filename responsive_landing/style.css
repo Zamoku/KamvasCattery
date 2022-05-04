@@ -7,3 +7,14 @@ body{
 .right{
     float: right;
 }
+.picture1{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.event2{
+    padding-left: 30px;
+}
+.pad-center{
+    padding-left: 30px;
+}

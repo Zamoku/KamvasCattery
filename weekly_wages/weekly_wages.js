@@ -1,7 +1,6 @@
 function weeklyWage(band, weeklyHours) {
 
   var arrayWeeklyHours = weeklyHours.split(',');
-  var counter = 0;
   var sum = 0;
 
   for (var i = 0; i < arrayWeeklyHours.length; i++) {
